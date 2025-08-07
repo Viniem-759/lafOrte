@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">lafOrte 2.0</string>
+    <string name="Create">Create</string>
+    <string name="Account">Account</string>
+    <string name="text1">Fill your information below or\n register with your social account.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="todo">TODO</string>
+    <string name="Continue">Continue</string>
+    <string name="or_signup_with">or SignUp with</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login"> Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="back">Back</string>
+    <string name="text2">We missed you!\n Continue your journey with us.</string>
+    <string name="continue_with">or Continue with</string>
+    <string name="doesn_t_have_account">Doesn\'t have Account</string>
+    <string name="signup">SignUp</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="laforte">lafOrte</string>
+    <string name="write_something">Write something...</string>
+    <string name="attach_file">Attach file</string>
+    <string name="go_back">Go back</string>
+    <string name="facebook_app_id">722191337175281</string>
+    <string name="fb_login_protocol_scheme">fb722191337175281</string>
+    <string name="facebook_client_token">96e3ce004e2f92e50f6896fb49e3bc04</string>
+    <string name="post">Post</string>
+    <string name="autheticate_facebook">Autheticate Facebook</string>
+
+
+</resources>
